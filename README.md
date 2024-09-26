@@ -19,4 +19,4 @@ The noise flow field coding generates smooth, organic particle motion that simul
 [View Example Code](https://miguelrr11.github.io/Noise_Flow_Field/)
 
 ### Example Screenshot:
-![An screenshot of the example](readmeImages/screenshot_of_the_example.png)
+![An screenshot of the example](screenshot_of_the_example.png)
